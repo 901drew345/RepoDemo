@@ -1,3 +1,3 @@
 # RepoDemo
 
-Basic Demo for Git
+Basic Demo for GitHub
