@@ -1,3 +1,3 @@
 cd ..
-touch newfile
+touch newfile1
 echo "new file made in parent directory"
